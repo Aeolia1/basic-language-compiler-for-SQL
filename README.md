@@ -1,4 +1,4 @@
-# basic-parser-interpreter-for-SQL
+# basic-language-compiler-for-SQL
 Refer to the syntax of SQL to implement the language compiler of the database. The function is the same as the basic SQL syntax, including create, update, select, etc. and compound logic processing (Java);
 
 ## Project Background
