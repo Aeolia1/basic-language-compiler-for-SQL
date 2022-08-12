@@ -4,6 +4,18 @@ Refer to the syntax of SQL to implement the language compiler of the database. T
 ## Project Background
 
 
+## SQL Syntax Implemented
+- USE
+- CREATE
+- DROP
+- ALTER
+- INSERT
+- SELECT
+- UPDATE
+- DELETE
+- JOIN
+
+
 ## SQL Syntax BNF
 ```
 
