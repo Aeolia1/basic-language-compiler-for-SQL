@@ -1,4 +1,4 @@
-# basic-language-compiler-for-SQL
+# basic-syntax-compiler-for-SQL
 Refer to the syntax of SQL to implement the syntax compiler for database. The function is similar to the basic SQL syntax, including create, update, select, etc. and compound logic processing;
 
 ## Project Background
